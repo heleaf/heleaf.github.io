@@ -6,11 +6,6 @@ layout: page
 title: Art
 permalink: /art/
 ---
-<div class="image-gallery">
-  {% for image in site.art %}
-	 <img src="{{ site.url }}{{ image.image_path  }}"/> 
-  {% endfor %}
-</div>
 
 <style>
   .image-gallery {overflow: auto; margin-left: -1%!important;}
@@ -18,6 +13,14 @@ permalink: /art/
   .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
   .image-gallery a img {width: 100%; display: block;}
 </style>
+
+
+
+<div class="image-gallery">
+  {% for image in site.art %}
+	 <img src="{{ site.url }}{{ image.image_path  }}"/> 
+  {% endfor %}
+</div>
 
 <div class="image-gallery">
 {% for file in site.art %}
