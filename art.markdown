@@ -10,6 +10,7 @@ permalink: /art/
 
 <div class="image-gallery">
   {% for image in site.art %}
-	 <img src="{{ site.url }}/art/{{ image.name }}"/>
+/*	 <img src="{{ site.url }}/art/{{ image.name }}"/> */
+	![art]({{ site.url }}/art/{{ image.name }})
   {% endfor %}
 </div>
