@@ -11,6 +11,6 @@ digital art portfolio
 
 <div class="image-gallery">
   {% for image in site.art %}
-	 <img src="{{ site.baseurl }}{{ image.path }}"/>
+	 <img src="{{ site.url }}{{ image.path }}"/>
   {% endfor %}
 </div>
