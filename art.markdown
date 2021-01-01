@@ -14,30 +14,10 @@ permalink: /art/
   .image-gallery a img {width: 100%; display: block;}
 </style>
 
-
-
 <div class="image-gallery">
   {% for image in site.art %}
-	 <img src="{{ site.url }}{{ image.image_path  }}"/> 
+	 <img src="{{ site.url }}{{ image.image_path  }}"/>
+	<br> 
   {% endfor %}
 </div>
 
-<div class="image-gallery">
-{% for file in site.art %}
-    {% if file.extname == '.jpg' or 
-      file.extname == '.jpeg' or 
-      file.extname == '.JPG' or 
-      file.extname == '.JPEG' or
-      file.extname == '.png' or
-      file.extname == '.PNG' %}
-
-      {% assign filenameparts = file.path | split: "/" %}
-      {% assign filename = filenameparts | last | replace: file.extname,"" %}
-
-      <a href="{{ file.path }}" title="{{ filename }}">
-        <img src="//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
-        <span>{{ filename }}</span>
-      </a>
-  {% endif %}
-{% endfor %}
-</div>
