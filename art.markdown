@@ -10,7 +10,7 @@ digital art portfolio
 ![My helpful screenshot]({{ site.url }}/art/wangxian.png)
 
 <div class="image-gallery">
-  {% for image in art %}
+  {% for image in site.art %}
 	 <img src="{{ site.url }}{{ image.path }}"/>
   {% endfor %}
 </div>
