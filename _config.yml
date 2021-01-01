@@ -30,7 +30,7 @@ twitter_username: heleafna
 github_username:  heleaf
 
 # Build settings
-theme: dinky
+theme: minima
 plugins:
   - jekyll-feed
 
