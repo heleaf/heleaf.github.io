@@ -6,12 +6,8 @@ layout: page
 title: Art
 permalink: /art/
 ---
-<div class="test">
-#/* ![My helpful screenshot]({{ site.url }}/art/wangxian.png) */
-</div>
 <div class="image-gallery">
   {% for image in site.art %}
 	 <img src="{{ site.url }}{{ image.image_path  }}"/> 
-#	![art]({{ site.url }}/art/{{ image.name }})
   {% endfor %}
 </div>
