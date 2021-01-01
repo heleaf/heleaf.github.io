@@ -40,4 +40,3 @@ permalink: /art/
 
 <p>hmmm</p>
 
-{% include my-gallery.html folder="myfolder" %}
