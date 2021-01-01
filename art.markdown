@@ -6,7 +6,7 @@ layout: page
 title: Art
 permalink: /art/
 ---
-<div class="image-gallery1">
+<div class="image-gallery">
   {% for image in site.art %}
 	 <img src="{{ site.url }}{{ image.image_path  }}"/> 
   {% endfor %}

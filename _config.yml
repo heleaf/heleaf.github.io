@@ -46,7 +46,8 @@ collections:
  papers:
   output: true
 
-
+include:
+ - "image-gallery.html"
 
  
 # Exclude from processing.
