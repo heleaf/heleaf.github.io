@@ -6,11 +6,10 @@ layout: page
 title: Art
 permalink: /art/
 ---
-digital art portfolio
 ![My helpful screenshot]({{ site.url }}/art/wangxian.png)
 
 <div class="image-gallery">
-  {% for image in site.collections.art %}
-	 <img src="{{ site.url }}{{ image.path }}"/>
+  {% for image in site.art %}
+	 <img src="{{ site.url }}/art/{{ image.name }}"/>
   {% endfor %}
 </div>
