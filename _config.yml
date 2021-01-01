@@ -35,6 +35,7 @@ linkedin_username: helenafyang
 theme: minima
 plugins:
   - jekyll-feed
+
 collections:
  programming:
   output: true
@@ -44,6 +45,9 @@ collections:
   output: true
  papers:
   output: true
+
+
+
  
 # Exclude from processing.
 # The following items will not be processed, by default.
