@@ -29,6 +29,7 @@ url: https://heleaf.github.io # the base hostname & protocol for your site, e.g.
 #twitter_username: heleafna
 github_username:  heleaf
 instagram_username: leaf.rat
+linkedin_username: helenafyang
 
 # Build settings
 theme: minima
