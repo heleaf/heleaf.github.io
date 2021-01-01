@@ -3,11 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Programming Projects
-permalink: /programming/
+title: Art
+permalink: /art/
 ---
-
-
-{% for i in site.programming  %}
-  <h2>{{ programming.name }} </h2>
-{% endfor %}
+digital art portfolio
