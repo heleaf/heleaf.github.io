@@ -7,3 +7,4 @@ title: Art
 permalink: /art/
 ---
 digital art portfolio
+![My helpful screenshot]({{ site.url }}/art/wangxian.png)
