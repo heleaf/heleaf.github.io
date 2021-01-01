@@ -1,1 +1,0 @@
---- image_path: /art/spirit oasis.png ---
