@@ -29,7 +29,7 @@ url: https://heleaf.github.io/ # the base hostname & protocol for your site, e.g
 github_username:  heleaf
 
 # Build settings
-theme: minima
+theme: jekyll-theme-dinky
 plugins:
   - jekyll-feed
 
