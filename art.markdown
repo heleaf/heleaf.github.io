@@ -11,8 +11,6 @@ digital art portfolio
 
 <div class="image-gallery">
   {% for image in site.art %}
-    {% if image.path contains '/art/' %}
-      <img src="{{ site.baseurl }}{{ image.path }}"/>
-    {% endif %}
+	 <img src="{{ site.baseurl }}{{ image.path }}"/>
   {% endfor %}
 </div>
