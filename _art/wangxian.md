@@ -1,3 +1,3 @@
 ---
-image_path: /art/images/wangxian.png
+image_path: /art/wangxian.png
 ---
