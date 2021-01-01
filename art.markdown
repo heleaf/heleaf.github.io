@@ -17,7 +17,7 @@ permalink: /art/
 <div class="image-gallery">
   {% for image in site.art %}
 	 <img src="{{ site.url }}{{ image.image_path  }}"/>
-	<br> 
+	<p></p> 
   {% endfor %}
 </div>
 
