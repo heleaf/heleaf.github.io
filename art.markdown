@@ -38,3 +38,6 @@ permalink: /art/
   {% endfor %}
 </div>
 
+<p>hmmm</p>
+
+{% include my-gallery.html folder="myfolder" %}
