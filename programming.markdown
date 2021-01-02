@@ -8,4 +8,4 @@ permalink: /programming/
 ---
 programming portfolio
 
-![isometrism]({{ site.url }}/programming/isometrism.png)
+![isometrism]({{ site.url }}/programming/isometrism/isometrism.png)
