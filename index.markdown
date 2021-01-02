@@ -4,5 +4,5 @@
 
 layout: page
 ---
-![profile][{{site.url}}/misc/profile.png]
-Hello! I'm a freshman at Carnegie Mellon University who likes programming, math, art, and games. This is my portfolio for all those things, and everything in between. Feel free to reach out to me with any questions / inquiries!
+![profile]({{site.url}}/misc/profile.png)
+<p>Hello! I'm a freshman at Carnegie Mellon University who likes programming, math, art, and games. This is my portfolio for all those things, and everything in between. Feel free to reach out to me with any questions / inquiries! </p>
