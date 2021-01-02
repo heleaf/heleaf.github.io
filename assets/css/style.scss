@@ -1,9 +1,12 @@
 @import "{{ site.theme }}";
   .image-gallery {
+/*    img: first-child{ display: block;}
+    img{display: none;}
+*/
     width: 100%;
-    display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-    justify-content: center;
+    display: grid !important;
+    grid-template-columns: repeat(auto-fill,minmax(200px, 1fr)) !important;
+    justify-content: center !important;
     padding: 4px;
   }
 
