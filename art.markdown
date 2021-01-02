@@ -7,12 +7,31 @@ title: Art
 permalink: /art/
 ---
 <style>
-  .image-gallery {overflow: auto; margin-left: -1%!important;}
-  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
-  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
-  .image-gallery a img {width: 100%; display: block;}
-</style>
+  .image-gallery {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(250px, 1fr));
+    justify-content: center;
+    padding:10px;
+  }
 
+  .box {
+      flex-basis: 25%;
+      width: 100%;
+      padding: 10px;
+      margin: 10px;
+  }
+
+  .img-gallery {
+	width: 100%;
+  height: 200px;
+	object-fit: cover;
+  transform: scale(1);
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transform: scale(1.05);
+  }
+</style>
 <div class="image-gallery">
 {% for file in site.art %}
     {% if file.extname == '.jpg' or 
@@ -34,9 +53,8 @@ permalink: /art/
 <div class="image-gallery">
   {% for image in site.art %}
 	 <img src="{{ site.url }}{{ image.image_path  }}"/>
-	<p></p> 
   {% endfor %}
 </div>
 
-<p>hmmm</p>
+{% include image-gallery.html folder="myfolder" %}
 
