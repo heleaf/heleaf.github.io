@@ -8,4 +8,8 @@ permalink: /programming/
 ---
 programming portfolio
 
-![isometrism]({{ site.url }}/programming/isometrism/isometrism.png)
+<div>
+{% for project in site.programming%}
+	<img src="{{ site.url }}{{ project.image_path }}"/>	
+{% endfor %}
+</div>
