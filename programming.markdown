@@ -8,8 +8,4 @@ permalink: /programming/
 ---
 programming portfolio
 
-{% for i in site.programming  %}
-  <h2>{{ programming.name }} </h2>
-{% endfor %}
-
-this doesn't work
+![isometrism]({{ site.url }}/programming/isometrism.png)
