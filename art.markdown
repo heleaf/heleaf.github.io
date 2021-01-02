@@ -7,54 +7,18 @@ title: Art
 permalink: /art/
 ---
 <style>
-  .image-gallery {
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(auto-fill,minmax(250px, 1fr));
-    justify-content: center;
-    padding:10px;
-  }
-
-  .box {
-      flex-basis: 25%;
-      width: 100%;
-      padding: 10px;
-      margin: 10px;
-  }
-
-  .img-gallery {
-	width: 100%;
-  height: 200px;
-	object-fit: cover;
-  transform: scale(1);
-  transition: all 0.3s ease-in-out;
-  &:hover {
-    transform: scale(1.05);
-  }
+  .image-gallery {overflow: auto; margin-left: -1%!important;}
+  .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
+  .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+  .image-gallery a img {width: 100%; display: block;}
 </style>
-<div class="image-gallery">
-{% for file in site.art %}
-    {% if file.extname == '.jpg' or 
-      file.extname == '.png' or 
-      file.extname == '.JPG' or 
-      file.extname == '.PNG' %}
-
-      {% assign filenameparts = file.path | split: "/" %}
-      {% assign filename = filenameparts | last | replace: file.extname,"" %}
-
-      <a href="{{ file.path }}" title="{{ filename }}">
-        <img src="//images.weserv.nl/?url=jekyllcodex.org/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" />
-        <span>{{ filename }}</span>
-      </a>
-  {% endif %}
-{% endfor %}
-</div>
 
 <div class="image-gallery">
   {% for image in site.art %}
-	 <img src="{{ site.url }}{{ image.image_path  }}"/>
-  {% endfor %}
+	<a href = "{{site.url}}{{image.image_path}}">
+ <img style="padding: 10px; float: center;" src="{{ site.url }}{{ image.image_path  }}"/>
+</a> 
+ {% endfor %}
 </div>
-
-{% include image-gallery.html folder="myfolder" %}
-
+<script type="text/javascript" src="/lightbox.js"></script>
+<link rel="stylesheet" href="/lightbox.css">
