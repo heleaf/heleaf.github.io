@@ -6,10 +6,8 @@ layout: page
 title: Programming
 permalink: /programming/
 ---
-programming portfolio
-
 <div>
 {% for project in site.programming%}
-	<img src="{{ site.url }}{{ project.image_path }}"/>	
+	<img src="{{ site.url }}{{ project.image_path }}"/>
 {% endfor %}
 </div>
