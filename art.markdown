@@ -6,6 +6,7 @@ layout: page
 title: Art
 permalink: /art/
 ---
+<link rel="stylesheet" href="/lightbox.css">
 <style>
   .image-gallery {overflow: auto; margin-left: -1%!important;}
   .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;}
@@ -21,4 +22,3 @@ permalink: /art/
  {% endfor %}
 </div>
 <script type="text/javascript" src="/lightbox.js"></script>
-<link rel="stylesheet" href="/lightbox.css">
