@@ -45,9 +45,12 @@ collections:
   output: true
  papers:
   output: true
+ misc:
+  output: true
 
 include:
  - "image-gallery.html"
+ - "profile.png"
 
 imagesurl: "/img/"
 thumbsurl: "/thumbs/" 
