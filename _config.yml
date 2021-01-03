@@ -39,9 +39,6 @@ plugins:
 collections:
  programming:
   output: true
-  order:
-    - /isometrism/isometrism.md
-    - /acweather/acweather.md
  games:
   output: true
  art:

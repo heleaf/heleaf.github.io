@@ -6,8 +6,9 @@ layout: page
 title: Programming
 permalink: /programming/
 ---
+{% assign prgmming = site.programming | sort: "ordering" %}
 <div>
-{% for project in site.programming%}
+{% for project in prgmming %}
 	<img src="{{ site.url }}{{ project.image_path }}"/>
 {% endfor %}
 </div>
