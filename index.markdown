@@ -4,5 +4,9 @@
 
 layout: page
 ---
-![profile]({{site.url}}/misc/profile.png)
+<div style="text-align: CENTER;">
+<img src="{{site.url}}/misc/profile.png"/>
+<p></p>
 <p>Hello! I'm a freshman at Carnegie Mellon University who likes programming, math, art, and games. This is my portfolio for all those things, and everything in between. Feel free to reach out to me with any questions / inquiries! </p>
+</div>
+
