@@ -6,4 +6,12 @@ layout: page
 title: Games
 permalink: /games/
 ---
-video game portfolio
+<link rel="stylesheet" href="/image-gallery.css">
+{% assign games = site.games | sort: "ordering" | reverse  %}
+<div class="image-gallery">
+{% for project in games %}
+	<a href="{{ site.url }}{{ project.permalink }}">
+	<img src="{{ site.url }}{{ project.image_path }}"/>
+	</a>
+{% endfor %}
+</div>
