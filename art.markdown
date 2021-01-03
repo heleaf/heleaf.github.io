@@ -7,10 +7,10 @@ title: Art
 permalink: /art/
 heading: Personal art, including fanwork
 ---
-<script src="/js/jquery-3.5.1.min.js"></script>
+<script src="/assets/js/jquery-3.5.1.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
-<script src="/js/packery-mode.pkgd.js"></script>
-<link rel="stylesheet" href="/css/isotope-image-gallery.css">
+<script src="/assets/js/packery-mode.pkgd.js"></script>
+<link rel="stylesheet" href="/assets/css/isotope-image-gallery.css">
 
 
 <div class="grid">
@@ -22,6 +22,6 @@ heading: Personal art, including fanwork
  {% endfor %}
 </div>
 
-<script src="/js/isotope-image-gallery.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
-<script type="text/javascript" src="/js/lightbox.js"></script>
+<script src="/assets/js/isotope-image-gallery.js"></script>
+<link rel="stylesheet" href="/assets/css/lightbox.css">
+<script type="text/javascript" src="/assets/js/lightbox.js"></script>

@@ -7,10 +7,10 @@ title: Games
 permalink: /games/
 heading: Video games created with CMU's Game Creation Society
 ---
-<script src="/js/jquery-3.5.1.min.js"></script>
+<script src="/assets/js/jquery-3.5.1.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
-<script src="/js/packery-mode.pkgd.js"></script>
-<link rel="stylesheet" href="/css/isotope-image-gallery.css">
+<script src="/assets/js/packery-mode.pkgd.js"></script>
+<link rel="stylesheet" href="/assets/css/isotope-image-gallery.css">
 
 {% assign games = site.games | sort: "ordering" | reverse  %}
 <div class="grid">
@@ -24,5 +24,5 @@ heading: Video games created with CMU's Game Creation Society
 {% endfor %}
 </div>
 
-<script src="/js/isotope-image-gallery.js"></script>
+<script src="/assets/js/isotope-image-gallery.js"></script>
 
