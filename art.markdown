@@ -6,8 +6,9 @@ layout: page
 title: Art
 permalink: /art/
 ---
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
 <link rel="stylesheet" href="/css/image-gallery.css">
-<div class="image-gallery">
+<div class="image-gallery grid">
   {% for image in site.art %}
 	<a href = "{{site.url}}{{image.image_path}}">
  <img src="{{ site.url }}{{ image.image_path  }}"/>
