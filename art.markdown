@@ -12,16 +12,16 @@ heading: Personal art, including fanwork
 <script src="/assets/js/packery-mode.pkgd.js"></script>
 <link rel="stylesheet" href="/assets/css/isotope-image-gallery.css">
 
-
-<div class="grid">
+<div class="grid gallery">
  {% for image in site.art %}
 	<div class="grid-item">
 	<a href = "{{site.url}}{{image.image_path}}">
- <img src="{{ site.url }}{{ image.image_path  }}"/>
+ <img src="{{ site.url }}{{ image.image_path  }}" />
 </a></div>
  {% endfor %}
 </div>
 
 <script src="/assets/js/isotope-image-gallery.js"></script>
+
 <link rel="stylesheet" href="/assets/css/lightbox.css">
 <script type="text/javascript" src="/assets/js/lightbox.js"></script>
