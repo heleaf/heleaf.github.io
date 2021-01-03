@@ -5,3 +5,13 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+
+@font-face {
+	font-family: Quicksand;
+	src: url(Quicksand/Quicksand-VariableFont_wght.ttf);
+}
+
+html{
+	font-family: Quicksand;
+}
