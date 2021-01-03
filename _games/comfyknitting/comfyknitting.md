@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Comfy Knitting Simulator
+description: Keyboard-based knitting game
 permalink: /games/comfyknitting/
 image_path: /games/comfyknitting/comfyknitting.png
 ordering: 1

@@ -20,7 +20,7 @@ heading: Selected programming projects
 	<a href="{{ site.url }}{{ project.permalink }}">
 	<img src="{{ site.url }}{{ project.image_path }}"/>
 	<div class="overlay">
-		<div class="text">{{project.title}}</div>
+		<div class="text">{{project.description}}</div>
 	</div>
 	</a>
 	</div>

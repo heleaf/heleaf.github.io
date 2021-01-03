@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Narrative Game Anthology
+title: LIMINAL
+description: Narrative game anthology
 permalink: /games/liminal/
 image_path: /games/liminal/liminal.png
 ordering: 2
