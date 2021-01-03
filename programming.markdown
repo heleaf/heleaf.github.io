@@ -10,6 +10,8 @@ permalink: /programming/
 {% assign prgmming = site.programming | sort: "ordering" | reverse  %}
 <div class="image-gallery">
 {% for project in prgmming %}
-	<img style="width: 48%" src="{{ site.url }}{{ project.image_path }}"/>
+	<a href="{{ site.url }}{{ project.permalink }}">
+	<img src="{{ site.url }}{{ project.image_path }}"/>
+	</a>
 {% endfor %}
 </div>
