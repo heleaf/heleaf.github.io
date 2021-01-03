@@ -7,7 +7,7 @@ title: Papers
 permalink: /papers/
 heading: Technical paper projects
 ---
-<h4><a href='{{site.url}}/M3_2020.pdf'>Modeling Electric Truck Development, Deployment and Infrastructure</a></h4>
+<h4><a href='{{site.url}}/papers/M3_2020.pdf'>Modeling Electric Truck Development, Deployment and Infrastructure</a></h4>
 <ul>
 	<li>Written by Daniel Chen, Helena Yang, Eric Yi, Tony Wu, and Katherine Zhao (Richard Montgomery HS) in 14 hours as part of the 2020 MathWorks Math Modeling Challenge.</li>
 	<li>Awarded <b>honorable mention distinction</b> by the Society of Industrial & Applied Mathematics (top 4.8% of submissions)</li>
