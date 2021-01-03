@@ -6,7 +6,7 @@ layout: page
 title: Art
 permalink: /art/
 ---
-<link rel="stylesheet" href="/image-gallery.css">
+<link rel="stylesheet" href="/css/image-gallery.css">
 <div class="image-gallery">
   {% for image in site.art %}
 	<a href = "{{site.url}}{{image.image_path}}">
@@ -15,5 +15,5 @@ permalink: /art/
  {% endfor %}
 </div>
 
-<link rel="stylesheet" href="/lightbox.css">
-<script type="text/javascript" src="/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
+<script type="text/javascript" src="/js/lightbox.js"></script>

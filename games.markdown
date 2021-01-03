@@ -6,7 +6,7 @@ layout: page
 title: Games
 permalink: /games/
 ---
-<link rel="stylesheet" href="/image-gallery.css">
+<link rel="stylesheet" href="/css/image-gallery.css">
 {% assign games = site.games | sort: "ordering" | reverse  %}
 <div class="image-gallery">
 {% for project in games %}
