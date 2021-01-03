@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Isometrism
-description: 2.5D Room Designer & Viewer
+description: 2.5D room designer & viewer
 permalink: /programming/isometrism/
 image_path: /programming/isometrism/isometrism.png
 ordering: 5
