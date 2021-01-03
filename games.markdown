@@ -5,13 +5,24 @@
 layout: page
 title: Games
 permalink: /games/
+heading: Video games created with CMU's Game Creation Society
 ---
-<link rel="stylesheet" href="/css/image-gallery.css">
+<script src="/js/jquery-3.5.1.min.js"></script>
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+<script src="/js/packery-mode.pkgd.js"></script>
+<link rel="stylesheet" href="/css/isotope-image-gallery.css">
+
 {% assign games = site.games | sort: "ordering" | reverse  %}
-<div class="image-gallery">
+<div class="grid">
 {% for project in games %}
+	<div class="grid-item">
 	<a href="{{ site.url }}{{ project.permalink }}">
 	<img src="{{ site.url }}{{ project.image_path }}"/>
 	</a>
+	<p>{{ project.title }}</p>
+	</div>
 {% endfor %}
 </div>
+
+<script src="/js/isotope-image-gallery.js"></script>
+
