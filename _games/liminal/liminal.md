@@ -8,7 +8,7 @@ ordering: 2
 big-heading: LIMINAL
 ---
 <p>An anthology of short interactive narratives written in Twine.</p>
-<p>Awarded the Schell Games Award during the Fall 2020 CMU Game Creation Society showcase.</p>
+<p>Awarded the <b>Schell Games Award</b> during the Fall 2020 CMU Game Creation Society showcase.</p>
 <p>Created by Dominic Calkosz, Hayoon Choi, Grace Li, Chelsea Liu, An Tang, Nellie Tonev, Catherine Wang, George Whitfield, and Helena Yang for CMU Game Creation Society.</p>
 
 ![liminal]({{site.url}}/games/liminal/liminal.png)
