@@ -11,14 +11,19 @@ heading: Video games created with CMU's Game Creation Society
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
 <script src="/assets/js/packery-mode.pkgd.js"></script>
 <link rel="stylesheet" href="/assets/css/isotope-image-gallery.css">
-
+<link rel="stylesheet" href="/assets/css/text-hover.css">
 {% assign games = site.games | sort: "ordering" | reverse  %}
 <div class="grid">
 {% for project in games %}
 	<div class="grid-item">
+	<div class="container">
 	<a href="{{ site.url }}{{ project.permalink }}">
-	<img src="{{ site.url }}{{ project.image_path }}"/>
+	<img src="{{ site.url }}{{ project.image_path }}" />
+	<div class="overlay">
+		<div class="text">{{ project.title }}</div>
+	</div>
 	</a>
+	</div>
 	<p>{{ project.title }}</p>
 	</div>
 {% endfor %}
