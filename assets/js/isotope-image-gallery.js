@@ -1,3 +1,4 @@
+// code from https://isotope.metafizzy.co/layout.html 
 var $grid = $('.grid').isotope({
   itemSelector: '.grid-item',
   layoutMode: 'packery',
@@ -7,5 +8,3 @@ var $grid = $('.grid').isotope({
 $grid.imagesLoaded().progress( function() {
   $grid.isotope('layout');
 });
-
-
