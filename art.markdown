@@ -10,7 +10,7 @@ permalink: /art/
 <div class="image-gallery">
   {% for image in site.art %}
 	<a href = "{{site.url}}{{image.image_path}}">
- <img style="padding: 10px; float: center;" src="{{ site.url }}{{ image.image_path  }}"/>
+ <img src="{{ site.url }}{{ image.image_path  }}"/>
 </a> 
  {% endfor %}
 </div>

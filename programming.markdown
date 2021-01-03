@@ -6,9 +6,10 @@ layout: page
 title: Programming
 permalink: /programming/
 ---
+<link rel="stylesheet" href="/image-gallery.css">
 {% assign prgmming = site.programming | sort: "ordering" | reverse  %}
-<div>
+<div class="image-gallery">
 {% for project in prgmming %}
-	<img src="{{ site.url }}{{ project.image_path }}"/>
+	<img style="width: 48%" src="{{ site.url }}{{ project.image_path }}"/>
 {% endfor %}
 </div>
