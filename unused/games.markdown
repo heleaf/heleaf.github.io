@@ -12,7 +12,7 @@ heading: Video games created with CMU's Game Creation Society
 <script src="/assets/js/packery-mode.pkgd.js"></script>
 <link rel="stylesheet" href="/assets/css/isotope-image-gallery.css">
 <link rel="stylesheet" href="/assets/css/text-hover.css">
-{% assign games = site.games | sort: "ordering" | reverse  %}
+{% assign games = site.games  %}
 <div class="grid">
 {% for project in games %}
 	<div class="grid-item">

@@ -50,8 +50,8 @@ minima:
 header_pages:
  - art.markdown
  - programming.markdown
- - games.markdown
- - papers.markdown
+# - games.markdown
+# - papers.markdown
 
 # Build settings
 theme: minima
@@ -63,11 +63,7 @@ plugins:
 collections:
  programming:
   output: true
- games:
-  output: true
  art:
-  output: true
- papers:
   output: true
  misc:
   output: true

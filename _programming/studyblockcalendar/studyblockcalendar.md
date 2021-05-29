@@ -4,7 +4,7 @@ title: Energy Bar Calendar
 description: Automated study block generator
 permalink: /programming/studyblockcalendar/
 image_path: /programming/studyblockcalendar/studyblockcalendar.png
-ordering: 4
+ordering: 5
 big-heading: Energy Bar Calendar
 ---
 <p>An automated study schedule builder built by Aimee Feng, Helena Yang, and Laura Yao for HackMIT 2020.</p>
