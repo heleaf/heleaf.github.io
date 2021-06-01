@@ -48,7 +48,6 @@ permalink: /classes/
         </ul>
     <li>☆ 21-268 Multidimensional Calculus</li>
         <ul>
-            <li>This was probably the hardest class I took this semester. I originally took it to prepare for graphics classes later on, but I definitely could have gotten away with taking 21-259 Calculus in 3D, which most SCS freshmen seemed to have taken (although I don't regret taking 268).</li>
             <li>More proof-based than 21-259 (although it covers the same content), with a little bit of real analysis sprinkled in (but not on the level of 21-269). I realized I didn't learn calculus very well in HS while taking this course, and that my intuition for certain aspects of it is pretty bad. Also had to learn trig sub on my own since I didn't take MVC in HS, which was wonderful and not stressful at all.</li>
             <li>Prof. Xu explained things pretty intuitively and visually when she could. She was also very accomodating and encouraging during lecture/OH, which was quite motivating (to the point where I didn't give up after completely failing two quizzes in a row and getting discouraged from doing more rigorous math).</li>
             <li>I was highkey scared of my recitation TA, but he explained things quite well and gave us some nice strategies for solving problems.</li>
