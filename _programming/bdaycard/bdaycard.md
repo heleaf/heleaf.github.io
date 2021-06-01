@@ -2,7 +2,7 @@
 layout: page
 title: Animated Birthday Card
 description: Interactive digital card
-permalink: /programming/bdaycard/
+permalink: /code/bdaycard/
 image_path: /programming/bdaycard/bdaycard.png
 ordering: 1
 big-heading: Animated Birthday Card

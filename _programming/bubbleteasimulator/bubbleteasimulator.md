@@ -2,7 +2,7 @@
 layout: page
 title: Bubble Tea Simulator
 description: Interactive, physics-based browser app
-permalink: /programming/bubbleteasimulator/
+permalink: /code/bubbleteasimulator/
 image_path: /programming/bubbleteasimulator/bubbleteasimulator.png
 ordering: 2
 big-heading: Bubble Tea Simulator

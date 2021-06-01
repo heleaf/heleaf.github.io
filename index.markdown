@@ -4,9 +4,6 @@
 
 layout: page
 ---
-<div style="text-align: CENTER;">
-<img src="{{site.url}}/misc/profile.png"/>
-<p></p>
-<p>Hello! I'm a freshman at Carnegie Mellon University who likes programming, math, art, and games. This is my portfolio for all those things, and everything in between. Feel free to reach out to me with any questions / inquiries! </p>
-</div>
+
+<img src="{{site.url}}/misc/profile.jpg" ALIGN="left" width="30%" height="30%" style="border-radius: 50%; padding: 0px 80px 10px 10px"/> <span style="line-height: 2.5">Hello! I'm Helena, a sophomore studying computer science at Carnegie Mellon University. Feel free to contact <b>hfy [at] andrew.cmu.edu</b> with any inquiries!</span>
 

@@ -2,7 +2,7 @@
 layout: page
 title: Animal Crossing Weather Tracker
 description: Browser game with location and weather-based graphics
-permalink: /programming/acweather/
+permalink: /code/acweather/
 image_path: /programming/acweather/acweather.png
 big-heading: Animal Crossing Weather Tracker
 ordering: 3

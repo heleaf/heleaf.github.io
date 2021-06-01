@@ -1,9 +1,9 @@
 title: Helena Yang
-author:
-  name: Helena Yang
-  email: hfy@andrew.cmu.edu
-description: >
-  CMU SCS '24 | she/her
+#author:
+#  name: Helena Yang
+#  email: hfy@andrew.cmu.edu
+#description: >
+#  CMU SCS '24 | she/her
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -20,7 +20,7 @@ minima:
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    instagram: leaf.rat
+    instagram: leafcat26
     linkedin: helenafyang
     # pinterest: jekyll
     # youtube: jekyll

@@ -2,7 +2,7 @@
 layout: page
 title: LIMINAL
 description: Narrative game anthology
-permalink: /programming/liminal/
+permalink: /code/liminal/
 image_path: /programming/liminal/liminal.png
 ordering: 4
 big-heading: LIMINAL

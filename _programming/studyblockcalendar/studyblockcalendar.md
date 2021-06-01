@@ -2,7 +2,7 @@
 layout: page
 title: Energy Bar Calendar
 description: Automated study block generator
-permalink: /programming/studyblockcalendar/
+permalink: /code/studyblockcalendar/
 image_path: /programming/studyblockcalendar/studyblockcalendar.png
 ordering: 5
 big-heading: Energy Bar Calendar
