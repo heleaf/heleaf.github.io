@@ -1,6 +1,5 @@
 ---
 layout: page
-permalink: /classes/
 --- 
 <h4><b>Notes on courses I've taken at CMU</b></h4>
 <i>Heavily inspired by <a href = "https://thenumbat.github.io/cmu/">these</a> <a href="https://wanshenl.me/courses/reviews/">two</a> pages.</i> 
