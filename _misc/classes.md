@@ -8,7 +8,7 @@ layout: page
 
 <b>Context:</b> I came into CMU with a shaky programming background (had a terrible AP Java teacher in HS, learned some Python on my own) and an okay math background (studied a little bit of competition math, did fine in AP/IB math classes).
 
-☆: Courses which I thought were worth taking and/or especially enjoyed.
+☆: Courses which I especially enjoyed and/or think are particularly useful.
 
 <h5><b>Fall 2021 (Preliminary)</b></h5>
 <ul>
@@ -19,6 +19,17 @@ layout: page
     <li>60-220 IDeATe: Technical Character Animation</li>
     <li>82-273 Introduction to Japanese Language and Culture</li>
 </ul>
+
+<h5><b>Fall 2021 (Preliminary)</b></h5>
+<ul>
+    <li>TA: 15-112 Fundamentals of Programming & CS</li>
+    <li>15-213 Introduction to Computer Systems</li>
+    <li>15-210 Parallel and Sequential Data Structures and Algorithms</li>
+    <li>21-325 Probability</li>
+    <li>60-220 IDeATe: Technical Character Animation</li>
+    <li>57-173 Survey of Western Music History</li>
+</ul>
+
 
 <h5><b>Summer 2021</b></h5>
 <ul>
@@ -52,11 +63,11 @@ layout: page
             <li>I was highkey scared of my recitation TA, but he explained things quite well and gave us some nice strategies for solving problems.</li>
             <li>I should have spent more time on the homeworks, because the problems were actually cool when I wasn't stressed out about finishing them in time.</li>
             <li>Made friends with some MCS dudes in the in-person recitation, which made comiserating over quizzes/doing hws a lot more bearable. Hopefully we can get a stuffed minion for Prof. Xu in the fall. </li>
-            <li>Overall I'm very happy with how much I learned in this course. That means more pure math for me next semester, I guess...</li>
+            <li>Overall I'm very happy with how much I learned in this course. That means more pure math for me next semester (famous last words)</li>
         </ul>
     <li>73-102 Principles of Microeconomics</li>
         <ul>
-            <li>Prof. Best is really nice and funny, he explains things pretty intuitively. I didn't have much interest in econ to begin with, so I was very sad while doing psets (shoutout to my suitemates for carrying me). Also highkey gave up on the final, woops.</li>
+            <li>Prof. Best is really nice and funny, he explains things pretty intuitively. I didn't have much interest in econ to begin with, so I was very sad while doing psets (shoutout to my suitemates for carrying me). </li>
             <li>Overall not a bad option for the SCS constrained category 2 gened.</li>
         </ul>
     <li>02-261 Quantitative Cell and Molecular Biology Laboratory</li>
@@ -81,7 +92,7 @@ layout: page
         <ul>
             <li>My programming confidence and fluency improved so much after taking this class. The problem-solving, debugging, and recursion I learned in 112 helped greatly in 122 and 150.</li>
             <li>First few weeks of recitation were slow given my coding background, but content sped up and got harder rather quickly. Hws were always really fun to do. I made friends and had a lot of fun during quizbowl and Hack112. I also gained some insight into teaching and had fun doing a bit of peer tutoring.</li>
-            <li>Prof. Kosbie is a really fun, supportive, and engaging lecturer. Prof. Taylor is really kind and reassuring to talk/listen to. Their advanced lectures were really eye-opening, informative, and fun (covered material connected to 15-151, 21-241, 15-122, and 15-150!) They also gave life/job/internship advice and cool stories; Prof. Kosbie was kind enough to write and send a reccomendation letter to a bunch of REU programs I applied to, which I'm 99% sure is why I got offered any research positions at all.</li>
+            <li>Prof. Kosbie is a really fun, supportive, and engaging lecturer. Prof. Taylor is really kind and reassuring to talk/listen to. Their advanced lectures were really eye-opening, informative, and fun (covered material connected to 15-151, 21-241, 15-122, and 15-150!) They also gave life/job/internship advice and cool stories.</li>
             <li>Made <a href="https://heleaf.me/code/isometrism/">Isometrism</a> as my term project. I learned a lot about 3D graphics, project ideation/iteration/management, and coding in general. Super super fulfilling to have something I envisioned myself come to life, although it did stress me out quite a bit in the last week of making it.</li>
         </ul>
     <li>☆ 15-151 Mathematical Foundations of Computer Science</li>
@@ -94,7 +105,7 @@ layout: page
         </ul>
     <li>☆ 21-241 Matrices & Linear Transformations</li>
         <ul>
-            <li>Prof. Offner is based. (really nice, explained things intuitively/visually, gave us reasonable/applicable hws/exams)</li>
+            <li>Prof. Offner is based. (really nice, explained things intuitively/visually, gave us reasonable & applicable hws/exams)</li>
             <li>I don't have great intuition for matrices & their structure, so I struggled to deeply understand a lot of the material. I was pretty happy with how much I learned, though. Matrices are cool!</li>
             <li>Really useful class for a lot of different math & CS fields, including graphics :)</li>
         </ul>
