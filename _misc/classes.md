@@ -36,7 +36,7 @@ permalink: /classes/
     <li>02-261 Quantitative Cell and Molecular Biology Laboratory</li>
     <li>05-120 Introduction to Human-Computer Interaction</li>
 </ul>
-<b>Other:</b> dropped a project with GCS in the middle of the semester :(
+<b>Other:</b> GCS project (dropped)
 
 <b>Workload:</b> moderate - heavy
 
