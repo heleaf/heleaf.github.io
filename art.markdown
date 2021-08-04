@@ -5,7 +5,7 @@
 layout: page
 title: Art
 permalink: /art/
-heading: Personal art, including fanwork
+# heading: Personal art, including fanwork
 ---
 <script src="/assets/js/jquery-3.5.1.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>

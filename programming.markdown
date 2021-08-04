@@ -5,7 +5,7 @@
 layout: page
 title: Code
 permalink: /code/
-heading: Selected programming projects
+# heading: Selected programming projects
 ---
 <script src="/assets/js/jquery-3.5.1.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
