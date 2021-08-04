@@ -10,7 +10,7 @@ big-heading: Isometrism
 ---
 <p>A Python app that allows users to create an room, add/rotate furniture, and view the inside of the room from a first-person perspective.</p>
 <ul>
-<li>isometric projection, perspective rendering matrix theory</li>
+<li>isometric projection, perspective rendering matrix theory, bounding box collision detection</li>
 </ul>
 <p>Selected among 10 <b>term projects</b> out of ~500 to present during course lecture (15-112 Fundamentals of Programming & CS, Fall 2020)</p>
 {% include youtube-player.html id=page.youtubeId %}
