@@ -12,4 +12,4 @@ Hello! I'm a sophomore studying computer science at Carnegie Mellon University.
 
 **✉   hfy [at] andrew.cmu.edu**
 
-~  <a href = "{{site.url}}/classes">courses I've taken at CMU</a>
+~  <a href = "{{site.url}}/classes">notes on CMU</a>
