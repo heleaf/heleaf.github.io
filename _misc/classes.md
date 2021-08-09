@@ -17,7 +17,7 @@ permalink: /classes/
     <li>15-213 Introduction to Computer Systems</li>
     <li>15-210 Parallel and Sequential Data Structures and Algorithms</li>
     <li>21-325 Probability</li>
-    <li>TBD 60-220 IDeATe: Technical Character Animation or 21-360 Differential Geometry of Curves and Surfaces</li>
+    <li>60-220 IDeATe: Technical Character Animation</li>
 </ul>
 
 <h5><b>Summer 2021</b></h5>
@@ -30,7 +30,7 @@ permalink: /classes/
 <ul>
     <li>☆ ! TA: 15-112 Fundamentals of Programming & CS</li>
     <li>☆ 15-122 Principles of Imperative Computation</li>
-    <li>☆ ! 15-150 Principles of Functional Programming</li>
+    <li>☆ 15-150 Principles of Functional Programming</li>
     <li>☆ ! 21-268 Multidimensional Calculus</li>
     <li>73-102 Principles of Microeconomics</li>
     <li>02-261 Quantitative Cell and Molecular Biology Laboratory</li>
