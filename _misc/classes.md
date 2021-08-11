@@ -48,7 +48,7 @@ permalink: /classes/
 <ul>
     <li>☆ 15-112 Fundamentals of Programming & CS</li>
         <ul>
-            <li>! made <a href="https://heleaf.me/code/isometrism/">Isometrism</a> as my term project </li>
+            <li>! Made <a href="https://heleaf.me/code/isometrism/">Isometrism</a> as my term project. Incorporating some 21-241 lecture material (change of basis, perspective rendering) was cool.</li>
         </ul>
     <li>☆ ! 15-151 Mathematical Foundations of Computer Science</li>
     <li>☆ 21-241 Matrices & Linear Transformations</li>
