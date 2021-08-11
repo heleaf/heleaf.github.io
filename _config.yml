@@ -50,6 +50,7 @@ minima:
 header_pages:
  - art.markdown
  - programming.markdown
+ - blog.markdown
 # - games.markdown
 # - papers.markdown
 
@@ -67,6 +68,8 @@ collections:
   output: true
  misc:
   output: true
+ posts:
+   output: true
 
 include:
  - "image-gallery.html"

@@ -5,11 +5,13 @@
 layout: page
 ---
 <span>
-<img src="{{site.url}}/misc/profile.jpg" ALIGN="left" width="30%" height="30%" style="border-radius: 50%; padding: 0px 80px 10px 10px"/>
+<img src="{{site.url}}/misc/profile.jpg" ALIGN="left" float="left"  width="30%" height="30%" style="border-radius: 50%; padding: 0px 80px 10px 10px"/>
 </span>
-<span style="line-height: 2">
-Hello! I'm a sophomore studying computer science at Carnegie Mellon University.
-
-**✉   hfy [at] andrew.cmu.edu**
-
-~  <a href = "{{site.url}}/classes">notes on CMU</a>
+<div style="line-height: 250%; float : 'right'%">
+<p></p>
+Hello! I'm a sophomore studying computer science at Carnegie Mellon University. 
+<p></p>
+<p style = "text-align: justify;">
+<b> ✉   hfy [at] andrew.cmu.edu</b>
+</p>
+</div>
