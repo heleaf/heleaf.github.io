@@ -3,7 +3,7 @@ layout: page
 permalink: /classes/
 --- 
 #### <b> Courses I've taken at CMU </b>
-<i>Inspired by <a href = "https://thenumbat.github.io/cmu/">these</a> <a href="https://wanshenl.me/courses/reviews/">two</a> pages.</i> 
+<i>Inspired by <a href = "https://thenumbat.github.io/cmu/">these</a> <a href="http://weihang7.github.io/courses/">two</a> pages.</i> 
 
 <b>Goal:</b> CS major, computer graphics concentration, animation & special effects or math minor. 
 
@@ -32,6 +32,10 @@ permalink: /classes/
     <li>☆ 15-122 Principles of Imperative Computation</li>
     <li>☆ 15-150 Principles of Functional Programming</li>
     <li>☆ ! 21-268 Multidimensional Calculus</li>
+	<ul>
+ 	 <li>Pretty challenging, as it was my first time taking a multivariable calc course. Some proofs with matrices and a little bit of real analysis. I think this course (or 21-269) is good for building a foundation for mathier subfields in graphics (differential geometry, optimization).</li>
+	<li>Prof. Fanhui Xu was a great lecturer and super encouraging.</li>
+        </ul>
     <li>73-102 Principles of Microeconomics</li>
     <li>02-261 Quantitative Cell and Molecular Biology Laboratory</li>
     <li>05-120 Introduction to Human-Computer Interaction</li>
