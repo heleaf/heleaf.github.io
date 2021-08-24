@@ -5,4 +5,3 @@ permalink: blog/
 layout: home
 ---
 
-Some thoughts, more to come (hopefully)!
