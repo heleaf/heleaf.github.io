@@ -15,11 +15,11 @@ Animated in Maya 2022, rendered with Arnold
 {% include youtube-player.html id=page.youtubeId %}
 <p></p>
 Reel Breakdown: 
-- [00:02] Body Mechanics II - Hopscotch (Ultimate Bony)
-- [00:06] Body Mechanics I - Startled (Ultimate Bony)
-- [00:13] Style Walk - Stretching (Ultimate Bony)
-- [00:38] Vanilla Walk Cycle (Ultimate Walker)
-- [00:51] Ball and Tail (Squid rig (CMU Animation Assets))
-- [00:56] Paddle and Tail (Pendulum rig (CMU Animation Assets))
-- [01:11] Ball Bounce II (Heavy Ball, Light Ball) (Simple Ball rig (CMU Animation Assets))
-- [01:20] Ball Bounce (Simple Ball rig (CMU Animation Assets))
+- Body Mechanics II - Hopscotch (Ultimate Bony)
+- Body Mechanics I - Startled (Ultimate Bony)
+- Style Walk - Stretching (Ultimate Bony)
+- Vanilla Walk Cycle (Ultimate Walker)
+- Ball and Tail (Squid rig (CMU Animation Assets))
+- Paddle and Tail (Pendulum rig (CMU Animation Assets))
+- Ball Bounce II (Heavy Ball, Light Ball) (Simple Ball rig (CMU Animation Assets))
+- Ball Bounce (Simple Ball rig (CMU Animation Assets))
