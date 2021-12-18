@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Code
-permalink: /code/
+title: Projects
+permalink: /projects/
 # heading: Selected programming projects
 ---
 <script src="/assets/js/jquery-3.5.1.min.js"></script>
