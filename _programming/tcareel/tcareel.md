@@ -5,7 +5,7 @@ description: Body mechanics, walk cycles, balls and paddles
 permalink: /projects/tcareel/
 image_path: /programming/tcareel/tcareel.jpg
 ordering: 7
-youtubeId: 4dkViQLT-4E
+youtubeId: vCeYnop4lDk
 big-heading: Technical Character Animation Reel
 ---
 Created for 60-220 IDeATe: Technical Character Animation @ CMU
