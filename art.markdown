@@ -11,12 +11,11 @@ permalink: /art/
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
 <script src="/assets/js/packery-mode.pkgd.js"></script>
 <link rel="stylesheet" href="/assets/css/isotope-image-gallery.css">
-
 <div class="grid gallery">
  {% for image in site.art %}
 	<div class="grid-item">
 	<a href = "{{site.url}}{{image.image_path}}">
- <img src="{{ site.url }}{{ image.image_path  }}" />
+ <img width="20%" src="{{ site.url }}{{ image.image_path  }}" />
 </a></div>
  {% endfor %}
 </div>
@@ -25,3 +24,4 @@ permalink: /art/
 
 <link rel="stylesheet" href="/assets/css/lightbox.css">
 <script type="text/javascript" src="/assets/js/lightbox.js"></script>
+
