@@ -1,4 +1,4 @@
 ---
-image_path: /art/dream.JPG
+image_path: /art/dream.jpg
 --- 
 

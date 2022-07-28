@@ -1,4 +1,4 @@
 ---
-image_path: /art/khunbam.JPG
+image_path: /art/khunbam.jpg
 --- 
 
