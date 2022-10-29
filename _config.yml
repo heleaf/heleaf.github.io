@@ -73,8 +73,8 @@ collections:
 
 include:
  - "image-gallery.html"
- - "profile.png"
- - "hfy_resume.pdf"
+   #- "profile.png"
+   # - "hfy_resume.pdf"
 
 imagesurl: "/img/"
 thumbsurl: "/thumbs/"
