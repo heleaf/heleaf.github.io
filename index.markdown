@@ -3,13 +3,17 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+# layout: home
 youtubeId: GQ3DiW1eSLE
 ---
-<div style="line-height: 250%; float : 'right'%">
-<p></p>
+<div style="line-height: 200%; float : 'right'%">
+
+<p>
 Hello! I'm a junior studying computer science at Carnegie Mellon University. 
-<p></p>
+</p>
+
+<p>
 I like computer graphics, animation, and illustration, among other things :D
-<p></p>
+</p>
 
 </div>

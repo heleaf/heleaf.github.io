@@ -8,7 +8,7 @@ ordering: 7
 youtubeId: vCeYnop4lDk
 big-heading: Technical Character Animation Reel
 ---
-Created for 60-220 IDeATe: Technical Character Animation @ CMU
+Created for 60-220 IDeATe: Technical Character Animation
 
 Animated in Maya 2022, rendered with Arnold
 
