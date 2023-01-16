@@ -1,4 +1,4 @@
----
+---d
 layout: post
 title:  "Notes on My CMU Classes"
 # date:   2021-08-11 # 01:32:35 -0500
@@ -15,11 +15,14 @@ tags: classes
 
 !: Courses which were particularly time consuming for me.
 
-<!-- #### **Spring 2023**
-- TA: 15-210 Parallel & Sequential Data Structures and Algorithms 
+#### **Spring 2023**
+- Head TA: 15-210 Parallel & Sequential Data Structures and Algorithms 
 - 15-411 Compiler Design 
 - 15-464 Technical Animation
-- 60-125 IDeATe: Introduction to 3D Animation Pipeline -->
+- 60-125 IDeATe: Introduction to 3D Animation Pipeline 
+- 21-355 Principles of Real Analysis I
+
+**Workload**: TBD 
 
 #### **Fall 2022**
 - ☆ TA: 15-210 Parallel & Sequential Data Structures and Algorithms
