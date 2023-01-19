@@ -1,4 +1,3 @@
----d
 layout: post
 title:  "Notes on My CMU Classes"
 # date:   2021-08-11 # 01:32:35 -0500
