@@ -51,6 +51,7 @@ header_pages:
  - art.markdown
  - programming.markdown
  - blog.markdown
+#  - tanims23.markdown
 # - games.markdown
 # - papers.markdown
 
@@ -70,6 +71,8 @@ collections:
   output: true
  posts:
    output: true
+ tanim:
+    output: true
 
 include:
  - "image-gallery.html"
