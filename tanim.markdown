@@ -19,4 +19,4 @@ layout: page
 
 [lec1]: {{site.url}}/15-464/1-18
 [lec2]: {{site.url}}/15-464/1-23
-[lec2]: {{site.url}}/15-464/1-25
+[lec3]: {{site.url}}/15-464/1-25
