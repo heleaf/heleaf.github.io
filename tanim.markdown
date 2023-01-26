@@ -5,6 +5,10 @@ permalink: 15-464/
 layout: page
 ---
 
+<span class="post-meta">Jan 25, 2023
+[15-464 Lecture 3 (1/25)][lec3]
+</span>
+
 <span class="post-meta">Jan 23, 2023
 [15-464 Lecture 2 (1/23)][lec2]
 </span>
@@ -15,3 +19,4 @@ layout: page
 
 [lec1]: {{site.url}}/15-464/1-18
 [lec2]: {{site.url}}/15-464/1-23
+[lec2]: {{site.url}}/15-464/1-25
