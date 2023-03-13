@@ -5,6 +5,10 @@ permalink: 15-464/
 layout: page
 ---
 
+<span class="post-meta">Mar 13, 2023
+[15-464 Final Project Pithces (3/13)][lec14]
+</span>
+
 <span class="post-meta">Mar 1, 2023
 [15-464 Final Project Brainstorming (3/1)][lec13]
 </span>
@@ -70,3 +74,4 @@ layout: page
 [lec11]: {{site.url}}/15-464/2-22
 [lec12]: {{site.url}}/15-464/2-27
 [lec13]: {{site.url}}/15-464/3-1
+[lec14]: {{site.url}}/15-464/3-13
