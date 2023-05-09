@@ -4,9 +4,64 @@
 permalink: 15-464/
 layout: page
 ---
+<span class="post-meta">May 8, 2023
+[15-464 Final Project Presentations][lec28]
+</span>
+
+<span class="post-meta">Apr 26, 2023
+[15-464 Latest Papers (4/26)][lec27]
+</span>
+
+<span class="post-meta">Apr 24, 2023
+[15-464 Crowds (4/24)][lec26]
+</span>
+
+<span class="post-meta">Apr 19, 2023
+[15-464 Paper Presentations V (4/19)][lec25]
+</span>
+
+<span class="post-meta">Apr 17, 2023
+[15-464 Learning for Character Animation (4/17)][lec24]
+</span>
+
+<span class="post-meta">Apr 12, 2023
+[15-464 Paper Presentations V (4/12)][lec23]
+</span>
+
+<span class="post-meta">Apr 10, 2023
+[15-464 Character Simulation (4/10)][lec22]
+</span>
+
+<span class="post-meta">Apr 5, 2023
+[15-464 Paper Presentations IV (4/5)][lec21]
+</span>
+
+<span class="post-meta">Apr 3, 2023
+[15-464 Deformables (4/3)][lec20]
+</span>
+
+<span class="post-meta">Mar 29, 2023
+[15-464 Paper Presentations III (3/29)][lec19]
+</span>
+
+<span class="post-meta">Mar 27, 2023
+[15-464 More Fluids (3/27)][lec18]
+</span>
+
+<span class="post-meta">Mar 22, 2023
+[15-464 Fluid Simulation (3/22)][lec17]
+</span>
+
+<span class="post-meta">Mar 20, 2023
+[15-464 Mini Project II Presentations (3/20)][lec16]
+</span>
+
+<span class="post-meta">Mar 15, 2023
+[15-464 Final Project Pitches (3/15)][lec15]
+</span>
 
 <span class="post-meta">Mar 13, 2023
-[15-464 Final Project Pithces (3/13)][lec14]
+[15-464 Final Project Pitches (3/13)][lec14]
 </span>
 
 <span class="post-meta">Mar 1, 2023
@@ -75,3 +130,17 @@ layout: page
 [lec12]: {{site.url}}/15-464/2-27
 [lec13]: {{site.url}}/15-464/3-1
 [lec14]: {{site.url}}/15-464/3-13
+[lec15]: {{site.url}}/15-464/3-15
+[lec16]: {{site.url}}/15-464/3-20
+[lec17]: {{site.url}}/15-464/3-22
+[lec18]: {{site.url}}/15-464/3-27
+[lec19]: {{site.url}}/15-464/3-29
+[lec20]: {{site.url}}/15-464/4-3
+[lec21]: {{site.url}}/15-464/4-5
+[lec22]: {{site.url}}/15-464/4-10
+[lec23]: {{site.url}}/15-464/4-12
+[lec24]: {{site.url}}/15-464/4-17
+[lec25]: {{site.url}}/15-464/4-19
+[lec26]: {{site.url}}/15-464/4-24
+[lec27]: {{site.url}}/15-464/4-26
+[lec28]: {{site.url}}/15-464/5-8
