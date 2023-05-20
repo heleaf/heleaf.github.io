@@ -7,7 +7,7 @@ tags: classes
 ---
 *Inspired by [these][numbat] [similar][weihang] pages.*
 
-**Degree**: B.S. in Computer Science, concentration in computer graphics
+**Degree**: B.S. in Computer Science, minor in animation & special effects, concentration in computer graphics
 
 **Background**: I entered CMU with a bit of programming experience (poorly taught APCSA, self-taught Python), and some competition math experience (AMC and related things). I did IB/AP in high school.
 
@@ -15,23 +15,41 @@ tags: classes
 
 !: Courses which were particularly time consuming for me.
 
-#### **Spring 2023**
+<!-- #### **Fall 2023**
 - Head TA: 15-210 Parallel & Sequential Data Structures and Algorithms 
-- 15-411 Compiler Design 
-- 15-464 Technical Animation
-- 60-125 IDeATe: Introduction to 3D Animation Pipeline 
-- 21-355 Principles of Real Analysis I
+- 15-327 Monte Carlo Methods and Applications
+- 15-312 Foundations of Programming Languages 
+- 15-469 Special Topic: Visual Computing Systems
+- 15-445 Database Systems 
+- 60-335 IDeATe Special Topics in Animation: Story Development -->
 
-**Workload**: TBD 
+#### **Spring 2023**
+- ! Head TA: 15-210 Parallel & Sequential Data Structures and Algorithms 
+  - A lot of work (some rewarding, some tedious). Also more stressful than necessary due to a lot of semester-specific things (ex. developing C++ Lab infrastructure, content changes, etc.). At the end of the day, had many fun moments as well with other TAs and students, which was worthwhile.  
+- ☆ ! 15-411 Compiler Design 
+  - Very hands-on class where you implement 6 compilers with a partner in a language of your choice (we used OCaml, which is what most teams used). This was pretty effective in allowing us to deeply understand how each phase of a compiler works, and also a lot of work (for me, >= 25 hrs/week).
+  - In my opinion, the labs in order of difficulty: L5 > > > L4 > L3 > L2 > L1 ~ L6 (if you pick an easier final project)
+- 15-464 Technical Animation
+  - A graphics elective that covers both classic and modern research in animation (offered every other spring). In particular I learned a lot about cloth/fluid/deformable simulation.
+  - Pretty flexible class that was good to take alongside compilers as well--  main assignments were two mini-projects due every three weeks, and tasks for a final project. 
+- ☆ 60-125 IDeATe: Introduction to 3D Animation Pipeline 
+  - Really cool class where you make all aspects of a short animation (modeling, texturing, rigging, lighting, animating, etc.) from scratch. Very applicable if one is interested in working in film, animation, or games.
+  - Interesting to see how artists use many of the concepts or tools we learned about in the 15-xxx graphics classes in the pipeline.
+- 21-355 Principles of Real Analysis I
+  - Not too interesting, but I got some practice with formal definitions and proofs for continuous math, which is useful and sometimes cool.    
+  - Also seems to vary a lot with the professor-- I took it with Neumayer, who was generally fairly supportive of her students.
+  <!-- - Spiked my workload from often stressful to always stressful, so I kind of regret taking it.  -->
+
+**Workload**: heavy first 1/2, death second 1/2
+
 
 #### **Fall 2022**
 - ☆ TA: 15-210 Parallel & Sequential Data Structures and Algorithms
-  - TAing 210 was surprisingly very fun again, even with some burnout and minor issues throughout the semester (which is expected). I spent more time on extra voluntary tasks with other TAs, which was rewarding and a good way to avoid work. 
 - 15-451 Algorithm Design and Analysis
   - I was lucky to take this class during what seemed to be an abnormally "good" semester in terms of professors, TAs, and students-- I thought the 451 was harder than 210 and 251, but still reasonable/manageable. How hard and how reasonable 451 is seems to depend heavily on who's teaching it, though.
   - As with 251, having an oral group that you get along with and are willing to work with you is more important than having a really "smart" group. 
 - ! 15-440 Distributed Systems
-  - Possibly the worst taught CS class I've taken so far (although I've been told that I haven't taken any AI/ML classes yet). That might just be the nature of systems courses though, and my own stress. I might have taken 15-418 instead, but didn't want to deal with a second final project on top of 463's.
+  - Possibly the worst taught CS class I've taken so far (although I've been told that I haven't taken any AI/ML classes yet). That might just be how systems courses are taught though, and exasterbated by stress. I might have taken 15-418 instead, but didn't want to deal with a second final project on top of 463's.
   - For the fall variant, two of the four major projects are partner projects. In my opinion, it's probably better to find a partner who has a similar working style as you, as opposed to a friend who you might not work that well with. Group issues are common.
   - I would rank the projects P1 > P3 >= P2 > P0 in terms of difficulty, but [everyone's experience is different][joanna].
 - ☆ ! 15-463 Computational Photography
@@ -43,7 +61,7 @@ tags: classes
   -  I originally signed up for this class because I thought I would need extra units to pad different technicals / in case I dropped a class. I ended up staying in it because it was a graduation requirement, but I should have dropped and taken it a different semester.
   - If you're already doing research or are interested in research, 07-300 is probably a better option. I might have considered that if it didn't conflict with 463.
 - 82-279 Anime - Visual Interplay between Japan and the World
-  - Possibly the chillest gened you will find at CMU, with a really nice professor. You watch and discuss several anime over the course of the semester, with essays instead of exams. Counts for category 3. 
+  - Super chill gened, with a really nice professor. You watch and discuss several anime over the course of the semester, with essays instead of exams. Counts for category 3. 
 
 **Other**: research, interviews
 
@@ -58,7 +76,7 @@ tags: classes
 #### **Spring 2022**
 - ☆ TA: 15-210 Parallel & Sequential Data Structures and Algorithms
   - Pretty interesting to teach theory for the first time. Deepened some shaky understanding of topics from last semester and got to work with cool vet TAs, which was really rewarding.
-  - Reasonable responsibilities/time commitment (~12 hrs/week) 
+  - Reasonable responsibilities/time commitment 
 - ☆ 15-251 Great Theoretical Ideas in Computer Science
   - Very well run proof-based class, many interesting theory topics and homework problems. I felt like past semesters' math/cs theory classes were finally paying off. 
   - Writing sessions were initially stressful, but they ended up saving a lot of time from having to write up all the problems, and also reduced exam prep. I felt like I didn't need to prepare for exams as much (as say 210, 150, or concepts) other than reviewing practice/hw problems and some textbook definitions. 
