@@ -14,7 +14,7 @@ An animated short film for 60-125 IDeATe: Intro to 3D Animation Pipeline. All as
 
 #### Concept Art, Storyboarding
 <img style="margin-left: auto; margin-right: auto;  width: 45%" src='{{site.url}}/programming/pipeline/concept.png'/>
-<img style="margin-left: auto; margin-right: auto;  width: 45%" src='{{site.url}}/programming/pipeline/storyboard.PNG'/>
+<img style="margin-left: auto; margin-right: auto;  width: 45%" src='{{site.url}}/programming/pipeline/storyboard.png'/>
 
 #### Box modeling, sculpting, re-topologizing (Maya, Zbrush)
 
