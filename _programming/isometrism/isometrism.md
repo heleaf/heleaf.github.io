@@ -4,7 +4,7 @@ title: Isometrism
 description: 2.5D room designer & viewer
 permalink: /projects/isometrism/
 image_path: /programming/isometrism/isometrism.png
-ordering: 6
+ordering: 1
 youtubeId: xdaOIMHi0hQ
 big-heading: Isometrism
 ---
