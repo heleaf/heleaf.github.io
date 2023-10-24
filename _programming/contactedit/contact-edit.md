@@ -15,6 +15,6 @@ I tested different ways of visualizing the contact patches in Maya (such as with
 
 {% include youtube-player.html id=page.youtubeId %}
 
-[contactedit]:https://www.andrew.cmu.edu/user/aslakshm/pdfs/SIGGRAPH2023ContactEdit.pdf
+[contactedit]:https://nzfeng.github.io/research/ContactEdit/index.html
 
 

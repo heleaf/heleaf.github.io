@@ -15,16 +15,10 @@ tags: classes
 
 !: Courses which were particularly time consuming for me.
 
-<!-- #### **Fall 2023**
+#### **Fall 2023**
 <details>
 <summary>
-Head TA: 15-210 Parallel & Sequential Data Structures and Algorithms
-</summary>
-</details>
-
-<details>
-<summary>
-15-312 Foundations of Programming Languages 
+! Head TA: 15-210 Parallel & Sequential Data Structures and Algorithms
 </summary>
 </details>
 
@@ -36,21 +30,37 @@ Head TA: 15-210 Parallel & Sequential Data Structures and Algorithms
 
 <details>
 <summary>
-15-327 Monte Carlo Methods and Applications
+15-312 Foundations of Programming Languages 
 </summary>
 </details>
 
 <details>
 <summary>
-15-469 Special Topic: Visual Computing Systems
+15-445 Database Systems
 </summary>
 </details>
 
 <details>
 <summary>
-60-335 IDeATe Special Topics in Animation: Story Development
+☆ 15-469 Special Topic: Visual Computing Systems
 </summary>
-</details> -->
+</details>
+
+<details>
+<summary>
+☆ 60-335 IDeATe Special Topics in Animation: Story Development
+</summary>
+</details>
+
+<details>
+<summary>
+(Dropped) 15-327 Monte Carlo Methods & Algorithms
+</summary>
+</details>
+
+**Other**: gym, recruiting 
+
+<!-- **Workload**:  -->
 
 
 #### **Spring 2023**
