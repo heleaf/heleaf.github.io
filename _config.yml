@@ -73,6 +73,8 @@ collections:
    output: true
  tanim:
     output: true
+ lune:
+    output: true
 
 include:
  - "image-gallery.html"

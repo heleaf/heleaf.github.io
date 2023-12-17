@@ -4,7 +4,7 @@ title: Daydream
 description: 2D Animatic
 permalink: /projects/daydream/
 image_path: /programming/daydream/daydream.jpg
-ordering: 12
+ordering: 13
 youtubeId: SfVfqmwELns
 big-heading: Daydream
 ---
