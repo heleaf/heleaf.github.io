@@ -78,6 +78,7 @@ collections:
 
 include:
  - "image-gallery.html"
+ - "comic_s24.pdf"
    #- "profile.png"
    # - "hfy_resume.pdf"
 
