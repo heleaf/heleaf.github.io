@@ -2,7 +2,7 @@
 layout: page
 title: Contact Edit
 description: Artist tools for automated hand posing 
-permalink: /projects/contact-edit/
+permalink: /code/contact-edit/
 image_path: /programming/contactedit/contact-edit.jpg
 ordering: 9
 youtubeId: Qnpmfa0iBGI

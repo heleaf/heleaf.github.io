@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Code
-permalink: /code/
+title: Story
+permalink: /story/
 # heading: Selected programming projects
 ---
 <script src="/assets/js/jquery-3.5.1.min.js"></script>
@@ -12,7 +12,7 @@ permalink: /code/
 <script src="/assets/js/packery-mode.pkgd.js"></script>
 <link rel="stylesheet" href="/assets/css/isotope-image-gallery.css">
 <link rel="stylesheet" href="/assets/css/text-hover.css">
-{% assign prgmming = site.programming | sort: "ordering" | reverse  %}
+{% assign prgmming = site.artprojs | sort: "ordering" | reverse  %}
 <div class="grid">
 {% for project in prgmming %}
 	<div class="grid-item">

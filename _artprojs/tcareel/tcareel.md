@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Technical Character Animation Reel
-description: Body mechanics, walk cycles, balls and paddles
-permalink: /projects/tcareel/
-image_path: /programming/tcareel/tcareel.jpg
-ordering: 7
+title: technical character animation reel
+description: body mechanics, walk cycles, balls and paddles
+permalink: /story/tcareel/
+image_path: /artprojs/tcareel/tcareel.jpg
+ordering: 2 #7
 youtubeId: vCeYnop4lDk
 big-heading: Technical Character Animation Reel
 ---

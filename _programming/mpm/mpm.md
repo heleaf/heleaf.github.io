@@ -2,7 +2,7 @@
 layout: page
 title: Material Point Method
 description: Snow, fluid, and jello simulation
-permalink: /projects/mpm/
+permalink: /code/mpm/
 image_path: /programming/mpm/mpm-thumbnail.jpg
 ordering: 11
 big-heading: Moving-Least-Squares Material Point Method

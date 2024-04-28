@@ -49,6 +49,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - art.markdown
+ - artprojs.markdown
  - programming.markdown
  - blog.markdown
 #  - tanims23.markdown
@@ -67,6 +68,8 @@ collections:
   output: true
  art:
   output: true
+ artprojs:
+  output: true
  misc:
   output: true
  posts:
@@ -75,10 +78,11 @@ collections:
     output: true
  lune:
     output: true
+ comics:
+    output: true
 
 include:
  - "image-gallery.html"
- - "comic_s24.pdf"
    #- "profile.png"
    # - "hfy_resume.pdf"
 

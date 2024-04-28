@@ -2,7 +2,7 @@
 layout: page
 title: Light Fall-off Stereo
 description: 3D Depth Map Recovery
-permalink: /projects/lfs/
+permalink: /code/lfs/
 image_path: /programming/lfs/lfs_thumbnail.jpg
 ordering: 8
 youtubeId: EL5wdKGRYy0

@@ -2,13 +2,13 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Lune
-description: Story concepts
-permalink: /projects/lune/
-image_path: /programming/lune/lune_cover1.jpg
-ordering: 12
+title: lune
+description: 
+permalink: /story/lune/
+image_path: /artprojs/lune/lune_cover1.jpg
+ordering: 1
 # youtubeId: SfVfqmwELns
-big-heading: 月 (Lune)
+big-heading: 月 (lune)
 ---
 <script src="../../assets/js/jquery-3.5.1.min.js"></script>
 <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
