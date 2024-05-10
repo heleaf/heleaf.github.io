@@ -11,9 +11,121 @@ tags: classes
 
 **Background**: I entered CMU with a bit of programming experience (poorly taught APCSA, self-taught Python), and some competition math experience (AMC and related things). I did IB/AP in high school.
 
-☆: Courses which I especially enjoyed and/or thought were worth taking.
+☆: Courses which I (personally) especially enjoyed and/or thought were worth taking.
 
-!: Courses which were particularly time consuming for me.
+!: Courses which were (consistently) particularly time consuming for me.
+
+#### **Spring 2024**
+<details>
+<summary>
+TA: 15-210 Parallel & Sequential Data Structures and Algorithms
+</summary>
+</details>
+
+<details>
+<summary>
+☆ ! 15-410 Operating System Design and Implementation
+</summary>
+<ul>
+<li>
+Mostly seconding <a href = "https://thenumb.at/cmu/">thenumbat’s</a> review on the workload/course staff. 
+</li>
+<li>
+Lectures are taught extremely well and cover useful topics outside of OS implementation: how to ask meaningful questions, how to debug effectively, how to approach and iterate on design problems.
+</li>
+<li>
+Projects are a lot more design-focused and rewarding than expected (than say compilers, which in my opinion has a lot more coding than emphasis on good design and debugging).
+</li>
+<li>
+If I had say how other systems classes were helpful for this class out of the three I took beforehand, I would rank them from most to least helpful: 15-411 gave a good understanding of assembly + the stack and partner practice + managing a 15-unit systems class, 15-440 (fall) gave decent practice with design problems in a more structured setting than OS, and 15-445 overall gave ok practice with concurrency/random C things in a pretty structured setting. 
+</li>
+<li>
+I didn't take 15-418, but my partner did, and we found its lectures occasionally very useful for the projects as well. Ultimately I think every systems class will share some relevant topic overlap with OS (ex. there were lectures covering cache coherency from 15-418, database transactions, networking, distributed operating systems).
+</li>
+</ul>
+</details>
+
+<details>
+<summary>
+☆☆ 60-263 Intermediate Studio: Graphic Novel
+</summary>
+<ul>
+<li>
+One of my favorite classes ever. <a href = "https://www.johnpena.net/">John Peña</a> is a super energetic, encouraging, and just overall amazing professor to take this class with. I felt like I learned a lot, and I had so much fun drawing and making comics every week with everybody in the class. 
+</li>
+</ul>
+</details>
+
+<details>
+<summary>
+60-415 Chinese Mythology and Animation 
+</summary>
+<ul>
+<li>
+A mostly chill gen-ed and studio class hybrid. Classes were spent either discussing Chinese mythology articles or various history of animation topics. Each group wrote a story inspired by Chinese myths and created an animation project. 
+</li>
+<li>
+There was not much of a focus on practical animation technique as I would have liked, though I expect that would have been more present in a full studio animation class. The professors did periodically alert students to <a href = "https://studioforcreativeinquiry.org/">animation-related talks and events</a> though, which was cool.
+</li>
+<li>
+This class also counts for the animation & special effects minor. 
+</li>
+</ul>
+</details>
+
+<details>
+<summary>
+☆☆ 60-337 IDeATe Special Topics in Animation: Storyboarding
+</summary>
+<ul>
+<li>
+A super fun follow-up (A4) mini to 60-335, and also taught by <a href = "https://alexalimhaas.com/">Alexa!</a> More focused on the visual aspects of 60-335, but storytelling approaches and topics were still relevant. One doesn't need to necessarily take both minis in that order; even just taking one of them is a really fun and fulfilling experience if you're interested in storytelling or drawing.
+</li>
+</ul>
+</details>
+
+<details>
+<summary>
+(Dropped) 15-472 Real-time Graphics 
+</summary>
+<ul>
+<li>
+Backup class for if I couldn’t get into OS, which I dropped in the second week. Also a first-time offering for writing a Vulkan graphics engine from scratch, and it seems like assignments tended to be difficult or time consuming. The little content I saw was cool though— if you like systems and performance optimization for graphics you would probably like this class.
+</li>
+</ul>
+</details>
+
+<details>
+<summary>
+(Dropped) 15-468 Physics-based Rendering
+</summary>
+<ul>
+<li>
+I actually really wanted to take this class while planning out my graphics concentration in sophomore/junior year, but I ended up not needing it to finish the concentration, and didn't want take it for other reasons (see notes below). I didn't actually go to any lectures, but I know from computational photography (taught by the same professor, Yannis) that the course is well-run (and well-funded). 
+</li>
+</ul>
+</details>
+
+<br>
+**Other**: gym (intermittently) 
+
+**Workload**: heavy when OS deadlines rolled around, mostly moderate otherwise 
+
+<details>
+<summary><b>Notes:</b></summary>
+<ul>
+<li>
+I don't recommend taking a second coding-heavy class on top of OS, since it effectively takes up the amount of commitment as a part-time coding job (can be up to 30 hrs a week, sometimes more). This was one of the reasons why I opted to take an art-adjacent gened (Chinese Animation) over another graphics class. 
+</li>
+<li>
+This was also the semester I tried to take more classes for pure personal interest (ex. comics, storyboarding, animation). In hindsight I should have tried to do this more aggressively in other semesters too. 
+</li>
+<li>
+If I had more time, some other classes I would have liked to take include film studies, script writing, color, generative AI, and various art studios...
+</li>
+</ul>
+</details>
+
 
 #### **Fall 2023**
 <details>
@@ -282,9 +394,9 @@ Super chill gened, with a really nice professor. You watch and discuss several a
 <li> 
 Don't take five classes, TA, and do research during interview season, even if you like suffering. 
 </li>
-<li> 
+<!-- <li> 
 I met a lot of new friends through 451 and 440 this semester, which might be because a lot of CS juniors take at least one of them junior fall. In retrospect, this makes me glad I took 210 + 213 last fall to be able to have my current schedule, since in past semesters I didn't take many core classes at the "same time" as many other people in my year.
-</li>
+</li> -->
 <li> 
 My time management/tolerance for higher FCE has definitely increased over the semesters, but this semester's workload was still too heavy for me. It might have been more manageable if I didn't pick up a research project on a whim a few weeks before the semester started.
 </li>
